@@ -4,6 +4,7 @@ body {
 	font-family: 'Fira Code', 'Nanum Gothic Coding', monospace;
 	display: flex;
 	flex-flow: row;
+	font-size: 1.4em;
 }
 
 body > header {
