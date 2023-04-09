@@ -1,0 +1,8 @@
+baseURL = 'https://gcml.eu/'
+languageCode = 'en-us'
+title = 'gcml'
+copyright = "Creative Commons BY 3.0"
+theme = "quitedark"
+
+[author]
+	name = "Davide Giacomelli"

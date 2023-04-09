@@ -1,0 +1,11 @@
+name = "quitedark"
+license = "MIT"
+description = "gcml.eu's theme"
+homepage = "https://gcml.eu"
+tags = []
+features = []
+min_version = "0.21"
+
+[author]
+  name = "gcml"
+  homepage = "https://gcml.eu"
