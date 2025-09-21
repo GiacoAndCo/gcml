@@ -13,10 +13,13 @@ My main focus was planning our products, ranging from data platforms to autonomo
 
 I'm a huge unix nerd, and I design & build my own keyboards.
 
+My CV is available for download [here].
+
 Some of my personal work is on [Github], DMs on [Twitter].
 
 [Twitter]: https://twitter.com/giacosview
 [Github]: https://github.com/giacoandco
-[Datatellers]: https://datatellers.info 
+[Datatellers]: https://datatellers.info
 [SAIhub]: https://saihub.org
 [uButler]: https://www.ubutler.nl
+[here]: https://drive.proton.me/urls/7Z4EQ6J328#w86eyE6reA1a
