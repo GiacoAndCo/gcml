@@ -19,4 +19,4 @@ Some of my personal work is on [Github], DMs on [Twitter], and [CV here].
 [Github]: https://github.com/giacoandco
 [SAIhub]: https://fondazionesaihub.fondazionemps.it
 [uButler]: https://www.ubutler.nl
-[CV here]: https://drive.proton.me/urls/7Z4EQ6J328#w86eyE6reA1a
+[CV here]: https://drive.proton.me/urls/GQVDCA1CFC#z8VzKYbVOU5X
