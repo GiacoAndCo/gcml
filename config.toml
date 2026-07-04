@@ -1,8 +1,8 @@
 baseURL = 'https://gcml.eu/'
-languageCode = 'en-us'
+locale = 'en-US'
 title = 'gcml'
 copyright = "Creative Commons BY 3.0"
 theme = "quitedark"
 
-[author]
+[params.author]
 	name = "Davide Giacomelli"
